@@ -12,12 +12,12 @@
     "license": "MIT",
     "keywords": [ "node-red", "solar", "sun", "power" ],
     "bugs": {
-      "url": "https://github.com/DeanCording/node-red-contrib-solarpowerforecast/issues"
+      "url": "https://github.com/DeanCording/node-red-contrib-solar-power-forecast/issues"
     },
-    "homepage": "https://github.com/DeanCording/node-red-contrib-solarpowerforecast",
+    "homepage": "https://github.com/DeanCording/node-red-contrib-solar-power-forecast",
     "repository" :
       { "type" : "git",
-        "url" : "https://github.com/DeanCording/node-red-contrib-solarpowerforecast.git"
+        "url" : "https://github.com/DeanCording/node-red-contrib-solar-power-forecast.git"
       },
     "node-red" : {
         "nodes": {
