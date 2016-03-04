@@ -88,5 +88,5 @@ function SolarPowerForecastNode(n) {
 
 // Register the node by name. This must be called before overriding any of the
 // Node functions.
-RED.nodes.registerType("solar power forecast",SolarIrradianceNode);
+RED.nodes.registerType("solar power forecast",SolarPowerForecastNode);
 }
